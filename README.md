@@ -7,6 +7,7 @@
 
 ## Demo
 **Friend Finder** is deployed to Heroku. Please check it out [here](https://friend-finder115.herokuapp.com/).
+![Screenshot](friendfinder.png)
 
 ## Installation
 To install the application follow the following instruction below:
